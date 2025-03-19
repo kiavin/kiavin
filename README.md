@@ -22,9 +22,8 @@ I use **Kali Linux**, which means I'm either a security enthusiast... or I just 
 Configuring **Nginx** is fun... until you see **"502 Bad Gateway"** and spend hours wondering if it's your app, your proxy, or just Nginx messing with you. 😅
 
 ## 📫 Connect with Me
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** your-email@example.com
+- **GitHub:** [github.com/your-username](https://github.com/kiavin)
+- **Email:** kiarie.email@gmail.com
 
 💡 Always open to learning, collaborating, and sharing knowledge!
 
