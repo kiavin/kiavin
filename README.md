@@ -91,3 +91,5 @@ until you see **"502 Bad Gateway"** and spend hours wondering if it's your app, 
 - **Email:** kiarie.email@gmail.com
 
 💡 Always open to learning, collaborating, and sharing knowledge!
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kiavin.kiavin&left_color=gray&right_color=blue)
