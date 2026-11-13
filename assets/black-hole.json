@@ -1,0 +1,15 @@
+{
+  "radial_error": 1.3184688226354365e-08,
+  "polar_error": 9.530618687739202e-09,
+  "unresolved": 0,
+  "width": 1080,
+  "height": 760,
+  "spin": 0.998,
+  "inclination": 82,
+  "horizon_rg": 1.0632139225171164,
+  "isco_rg": 1.2369706551751842,
+  "min_redshift": 0.032821416414093064,
+  "max_redshift": 1.4543106348743198,
+  "disk_pixels": 313496,
+  "step": 0.002
+}

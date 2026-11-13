@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Kelvin — full-stack developer. Interfaces, APIs, data and delivery, in a Matrix-inspired geometric design." />
+  <img src="./assets/hero.svg" width="100%" alt="Kelvin — full-stack developer. Green skill labels spiral toward a rotating black hole with a gravitationally lensed accretion disk, inspired by Interstellar." />
 </p>
 
 I'm **Kelvin**, a full-stack developer working across web applications, backend systems, and deployment automation. I like understanding the whole path: what someone sees, what the API does, where the data goes, and how the application runs.
@@ -51,3 +51,10 @@ I also enjoy exploring **IoT**, **smart utility metering**, and **security in my
 Open to conversations about full-stack development, automation, and useful things we can build together.
 
 **[GitHub](https://github.com/kiavin)** &nbsp; / &nbsp; **[Email](mailto:kiarie.email@gmail.com)** &nbsp; / &nbsp; **[Activity](https://github.com/kiavin?tab=overview)**
+
+<details>
+<summary>About the black-hole header</summary>
+
+The disk image uses numerical Kerr ray tracing. The animated skill labels are a visual metaphor. [See the model, approximations, and scientific references.](./assets/BLACK_HOLE.md)
+
+</details>
