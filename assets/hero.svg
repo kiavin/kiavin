@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Kelvin — full-stack developer</title>
+  <desc id="desc">An emerald terminal grid, streams of binary code and an isometric wireframe cube. Build useful things. Make the system work.</desc>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .rain { animation: drift 7s ease-in-out infinite alternate; }
+      .cursor { animation: blink 1.4s steps(1, end) infinite; }
+    }
+    @keyframes drift { to { transform: translateY(18px); } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#15392c" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#07110d"/>
+      <stop offset=".65" stop-color="#07110d" stop-opacity=".96"/>
+      <stop offset="1" stop-color="#07110d" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="aura">
+      <stop stop-color="#1d8055" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#07110d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#57ffb0" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#57ffb0" stop-opacity=".01"/>
+    </linearGradient>
+  </defs>
+  <path fill="#07110d" d="M0 0h1200v420H0z"/>
+  <path fill="url(#grid)" opacity=".62" d="M0 0h1200v420H0z"/>
+  <ellipse cx="956" cy="210" rx="300" ry="250" fill="url(#aura)"/>
+  <g class="rain" fill="#3add8f" font-family="monospace" font-size="13" opacity=".22">
+    <text x="747" y="25">0<tspan x="747" dy="22">1</tspan><tspan x="747" dy="22">0</tspan><tspan x="747" dy="22">1</tspan><tspan x="747" dy="22">1</tspan><tspan x="747" dy="22">0</tspan><tspan x="747" dy="22">0</tspan><tspan x="747" dy="22">1</tspan></text>
+    <text x="805" y="-15">1<tspan x="805" dy="22">0</tspan><tspan x="805" dy="22">1</tspan><tspan x="805" dy="22">0</tspan><tspan x="805" dy="22">1</tspan><tspan x="805" dy="22">0</tspan></text>
+    <text x="1093" y="115">0<tspan x="1093" dy="22">1</tspan><tspan x="1093" dy="22">1</tspan><tspan x="1093" dy="22">0</tspan><tspan x="1093" dy="22">1</tspan><tspan x="1093" dy="22">0</tspan><tspan x="1093" dy="22">0</tspan><tspan x="1093" dy="22">1</tspan><tspan x="1093" dy="22">1</tspan><tspan x="1093" dy="22">0</tspan></text>
+    <text x="1141" y="30">1<tspan x="1141" dy="22">1</tspan><tspan x="1141" dy="22">0</tspan><tspan x="1141" dy="22">1</tspan><tspan x="1141" dy="22">0</tspan><tspan x="1141" dy="22">1</tspan><tspan x="1141" dy="22">0</tspan><tspan x="1141" dy="22">0</tspan><tspan x="1141" dy="22">1</tspan><tspan x="1141" dy="22">0</tspan><tspan x="1141" dy="22">1</tspan></text>
+    <text x="849" y="280">0<tspan x="849" dy="22">1</tspan><tspan x="849" dy="22">0</tspan><tspan x="849" dy="22">0</tspan><tspan x="849" dy="22">1</tspan></text>
+  </g>
+  <path fill="url(#fade)" d="M0 0h1200v420H0z"/>
+  <g fill="none" stroke="#234f3b" stroke-width="1">
+    <path d="m956 51 138 80v158l-138 80-138-80V131Z"/>
+    <path d="m956 73 119 69v136l-119 69-119-69V142Z" stroke-dasharray="3 9"/>
+    <path d="M956 26v28m0 313v27M794 210h28m269 0h29"/>
+    <path d="m956 51 138 238H818ZM818 131h276L956 369Z" opacity=".48"/>
+  </g>
+  <g stroke="#64ffb2" stroke-width="1.8" stroke-linejoin="round">
+    <path d="m956 109 89 51-89 52-89-52Z" fill="url(#face)"/>
+    <path d="m867 160 89 52v103l-89-51Z" fill="#0c2117"/>
+    <path d="m956 212 89-52v104l-89 51Z" fill="url(#face)"/>
+    <path d="M956 109v103m-89 52 89-52 89 52" fill="none" stroke-dasharray="4 7" opacity=".3"/>
+  </g>
+  <g fill="#b4ffd6">
+    <rect x="952" y="105" width="8" height="8"/>
+    <rect x="863" y="156" width="8" height="8"/>
+    <rect x="1041" y="156" width="8" height="8"/>
+    <rect x="952" y="208" width="8" height="8"/>
+    <rect x="952" y="311" width="8" height="8"/>
+  </g>
+  <g font-family="'Courier New', monospace">
+    <text x="60" y="74" fill="#64ffb2" font-size="18" letter-spacing="4">KIAVIN / SYSTEM ONLINE</text>
+    <text x="54" y="201" fill="#e7fff1" font-size="112" font-weight="700" letter-spacing="-5">KELVIN<tspan class="cursor" fill="#64ffb2">_</tspan></text>
+    <text x="60" y="258" fill="#a6d6bc" font-size="28" letter-spacing="1">FULL-STACK / DEVOPS / AUTOMATION</text>
+    <path d="M60 291h50" stroke="#64ffb2" stroke-width="3"/>
+    <text x="60" y="332" fill="#8bb39c" font-size="22">Build useful things. Make the system work.</text>
+    <text x="60" y="386" fill="#5d9476" font-size="13" letter-spacing="2">INTERFACE → API → DATA → DELIVERY</text>
+  </g>
+  <g fill="none" stroke="#64ffb2" stroke-width="2">
+    <path d="M18 48V18h30m1104 0h30v30M18 372v30h30m1104 0h30v-30"/>
+  </g>
+  <path d="M60 17h1080M60 403h1080" stroke="#1e4231"/>
+</svg>
