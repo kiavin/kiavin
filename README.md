@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Kelvin — full-stack developer. Green skill labels spiral toward a rotating black hole with a gravitationally lensed accretion disk, inspired by Interstellar." />
+  <img src="./assets/hero.svg?v=cinematic" width="100%" alt="Kelvin — full-stack developer. The name itself stretches into light, shedding fragments toward an Interstellar-inspired black hole, while green skill labels spiral inward." />
 </p>
 
 I'm **Kelvin**, a full-stack developer working across web applications, backend systems, and deployment automation. I like understanding the whole path: what someone sees, what the API does, where the data goes, and how the application runs.
